@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dullahmagic23
-- 👀 I’m interested in PHP
-- 🌱 I’m currently learning NODEJS
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on CODING
 - 📫 How to reach me +255625243136
 
